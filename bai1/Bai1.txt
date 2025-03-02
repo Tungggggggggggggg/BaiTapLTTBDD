@@ -1,0 +1,24 @@
+Câu 1: Mong muốn và định hướng của bạn là gì sau khi học xong môn học này? 
+Sau khi hoàn thành môn học Lập trình di động, em mong muốn có thể:  
+- Nắm vững kiến thức cơ bản về lập trình Android bằng Kotlin và Jetpack Compose, bao gồm cách thiết kế giao diện, quản lý dữ liệu, và tích hợp API.  
+- Phát triển ít nhất một ứng dụng hoàn chỉnh có thể chạy trên điện thoại thật, giúp em hiểu quy trình thực tế khi xây dựng một ứng dụng di động.  
+- Học thêm về các công nghệ nâng cao, chẳng hạn như Firebase, Room Database, hoặc các phương pháp tối ưu hiệu suất ứng dụng.  
+- Trong tương lai, nếu có cơ hội, em mong muốn tham gia vào các dự án thực tế hoặc thực tập tại các công ty phần mềm để tích lũy kinh nghiệm.  
+
+Câu 2: Theo bạn, trong tương lai gần lập trình di động có phát triển không? Giải thích tại sao?
+Em tin rằng trong 10 năm tới, lập trình di động vẫn sẽ tiếp tục phát triển mạnh mẽ, bởi vì:  
+
+1. Nhu cầu sử dụng ứng dụng di động ngày càng tăng  
+   - Điện thoại thông minh ngày càng phổ biến, kéo theo đó là nhu cầu sử dụng các ứng dụng cho công việc, giải trí, mua sắm, học tập,…  
+   - Các ngành như thương mại điện tử, ngân hàng số, giáo dục trực tuyến, và y tế số đang phụ thuộc nhiều vào ứng dụng di động.  
+
+2. Công nghệ không ngừng đổi mới
+   - Trí tuệ nhân tạo (AI), thực tế ảo (VR), thực tế tăng cường (AR) đang được tích hợp vào ứng dụng di động, mở ra nhiều cơ hội mới.  
+   - Sự phát triển của 5G và Internet vạn vật (IoT) giúp các ứng dụng di động trở nên nhanh hơn, thông minh hơn và có thể kết nối với nhiều thiết bị hơn.  
+
+3. Xu hướng phát triển đa nền tảng
+   - Các công cụ như Flutter, React Native, Kotlin Multiplatform giúp lập trình viên có thể tạo ứng dụng chạy trên cả Android và iOS, giảm thời gian và chi phí phát triển.  
+
+4. Lập trình di động vẫn là một nghề hấp dẫn 
+   - Các công ty công nghệ lớn như Google, Apple, Facebook,… vẫn đang đầu tư mạnh vào ứng dụng di động.  
+   - Nhiều startup và doanh nghiệp nhỏ cũng cần ứng dụng để tiếp cận khách hàng, tạo ra nhiều cơ hội việc làm cho lập trình viên di động.  
