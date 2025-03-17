@@ -40,6 +40,21 @@ class MainActivity : ComponentActivity() {
                     composable("textDetail") {
                         TextDetailScreen(navController = navController)
                     }
+                    composable("imageDetail") {
+                        ImageDetailScreen(navController = navController)
+                    }
+                    composable("textfieldDetail") {
+                        TextFieldDetailScreen(navController = navController)
+                    }
+                    composable("passwordDetail") {
+                        PasswordFieldDetailScreen(navController = navController)
+                    }
+                    composable("columnDetail") {
+                        ColumnDetailScreen(navController = navController)
+                    }
+                    composable("rowDetail") {
+                        RowDetailScreen(navController = navController)
+                    }
                 }
             }
         }

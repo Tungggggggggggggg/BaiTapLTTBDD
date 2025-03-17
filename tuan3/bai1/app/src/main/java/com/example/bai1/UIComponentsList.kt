@@ -30,7 +30,7 @@ fun UIComponentsList(navController: NavController) {
         Text(
             text = "UI Components List",
             fontSize = 20.sp,
-            color = Color(0xFF4CC9F0),
+            color = Color(0xFF007AFF),
             fontWeight = FontWeight.Bold,
             modifier = Modifier
                 .padding(bottom = 12.dp)
@@ -88,6 +88,21 @@ fun ComponentItem(name1: String, name2: String, navController: NavController) {
             .clickable {
                 if (name1 == "Text") {
                     navController.navigate("textDetail")
+                }
+                if (name1 == "Image") {
+                    navController.navigate("imageDetail")
+                }
+                if (name1 == "TextField") {
+                    navController.navigate("textfieldDetail")
+                }
+                if (name1 == "PasswordField") {
+                    navController.navigate("passwordDetail")
+                }
+                if (name1 == "Column") {
+                    navController.navigate("columnDetail")
+                }
+                if (name1 == "Row") {
+                    navController.navigate("rowDetail")
                 }
             },
         colors = androidx.compose.material3.CardDefaults.cardColors(containerColor = Color(0xFF90E0EF)),
