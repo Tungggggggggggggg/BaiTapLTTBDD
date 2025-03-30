@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SmartTasks</string>
+    <string name="app_tagline">A simple &amp; efficient to-do app</string>
+    <string name="welcome_message">Welcome</string>
+    <string name="login_prompt">Ready to explore? Log in to get started.</string>
+    <string name="sign_in_with_google">SIGN IN WITH GOOGLE</string>
+    <string name="copyright">© UTHsmartTasks</string>
+    <string name="profile_title">Profile</string>
+    <string name="name_label">NAME</string>
+    <string name="email_label">EMAIL</string>
+    <string name="dob_label">Date of Birth</string>
+    <string name="back_button">Back</string>
+</resources>
